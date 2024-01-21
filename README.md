@@ -1,4 +1,4 @@
-# $Code \; Meets \; Art$
+# $\text{Code Meets Art}$
 ### by Coding Club, IIT Gandhinagar
 **Submission Details**:<br>
 **Team Name**: RECUbeRSION<br>
